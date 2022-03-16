@@ -7,7 +7,7 @@ My solutions for *Physics for Scientists and Engineers with Modern Physics* (Pau
 |01 Tooling Up|[Notebook](https://nbviewer.org/github/LiiYeongchyi/Physics-for-Scientists-and-Engineers-with-Modern-Physics/blob/main/Understanding%20the%20Concepts/Chapter%201%20Tooling%20Up.ipynb)|Notebook|
 |02 Straight-Line Motion|Notebook|Notebook|
 |03 Motion in Two and Three Dimensions|Notebook|Notebook|
-|04 Newton's Laws|Notebook|Notebook|
+|04 Newton's Laws|Notebook|[Notebook](https://nbviewer.org/github/LiiYeongchyi/Physics-for-Scientists-and-Engineers-with-Modern-Physics/blob/main/Problems/Chapter%204%20Newton%27s%20Laws.ipynb)|
 |05 Applications of Newton's Laws|Notebook|Notebook|
 |06 Work and Kinetic Energy|Notebook|Notebook|
 |07 Potential Energy and Conservation of Energy|Notebook|Notebook|
